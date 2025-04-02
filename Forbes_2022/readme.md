@@ -3,3 +3,4 @@
 ### Forbes_2022.ipynb - аналітика з Python
 
 ### Forbes_2022.pbix - аналітика з Power BI
+
